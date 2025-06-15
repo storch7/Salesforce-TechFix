@@ -1,0 +1,8 @@
+site_name: TechFix
+
+theme: gitbook
+
+nav: 
+  - Cenário atual do Cliente e do Negócio: 1Cenario.md
+  - Requisitos de Software: 2Req.md
+  - Backlog: 3Backlog.md
