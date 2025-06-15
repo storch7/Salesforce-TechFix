@@ -2,6 +2,8 @@ site_name: TechFix
 
 theme: gitbook
 
+site_url: https://storch7.github.io/Salesforce-TechFix/
+
 nav: 
   - Cenário atual do Cliente e do Negócio: 1Cenario.md
   - Requisitos de Software: 2Req.md
